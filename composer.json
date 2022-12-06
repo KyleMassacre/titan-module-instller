@@ -1,6 +1,7 @@
 {
     "name": "titan/module-installer",
     "type": "composer-plugin",
+    "license": "GPL-3.0-only",
     "description": "",
     "authors": [
         {
